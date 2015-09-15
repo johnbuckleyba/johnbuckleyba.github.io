@@ -11,6 +11,8 @@ A photographer based in Linlithgow, near Edinburgh, Scotland.
 Currently studying BA Professional Photography at Edinburgh College. 
 Studied HND Professional Photography at Edinburgh College & West Lothian College 2013-2015.
 
+This blog incorporates research material for various modules of my BA Professional Photography course.
+
 <br/>
 <hr/>
 

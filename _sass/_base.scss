@@ -19,7 +19,7 @@ $nav-height:                    56px;
 
 /* portfolio tinkering */
 $img_spacing: 5px; 
-$img_height: 275px;
+$img_height: 300px;
 $caption_font_size: 12px;
 $caption_color: #aaa;
 
@@ -98,7 +98,7 @@ figcaption {
  * Lists
  */
 ul, ol {
-    margin-left: $horizontal-spacing-unit;
+    margin-left: 22px;
 }
 
 li {
