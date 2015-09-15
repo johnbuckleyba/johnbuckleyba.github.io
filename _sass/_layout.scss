@@ -74,9 +74,7 @@ display: line;
  * Site footer  **********************************************************
  */
 .site-footer {
-border-top: 1px solid $grey-color-dark;
-font-size: 10px;
-background-color: $grey-color-dark;
+font-size: 11px;
 padding: 2px;
 color: #aaa;
 position:fixed;
@@ -84,6 +82,7 @@ left:0px;
 bottom:0px;
 height:25px;
 width:100%;
+text-align:center;
 }
 /**
  * Pagination   **********************************************************
@@ -220,19 +219,20 @@ width: 100%;
 height: 230px;
 }
 .thumbnail a span {
-display: none;
+display: block;
 position: absolute;
 top: 0;
 left: 0;
 bottom: 0;
 right: 0;
-background: rgba(0,0,0,0.4);
+background: rgba(0,0,0,0.1);
 color: $grey-color-light;
 padding: 40px;
 text-align: center;
 }
 .thumbnail a:hover span {
 display: block;
+background: rgba(0,0,0,0.0);
 }
 /** 
  * Portfolio pages **********************************************************

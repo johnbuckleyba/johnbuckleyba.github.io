@@ -1,7 +1,9 @@
 # Site settings
 title: John Buckley BA
 email: johnbuckleyphotography@gmail.com
-description: Edinburgh College Professional Photography BA
+description: A blog in fulfillment of the Professional Photography BA at Edinburgh College
+website: http://johnbuckleyphotography.uk
+mobile: +44 7440 099518
 
 baseurl: 
 url:  # the base hostname & protocol for your site
@@ -22,7 +24,6 @@ collections:
   cpp:
     output: true
     permalink: /cpp/:path/
-    title: CPP
 
-
-
+exclude: [Gemfile*]
+  
