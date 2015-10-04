@@ -3,6 +3,24 @@ A simple theme for showcasing your work, emphasis on whitespace, transparency, a
 
 <a href="http://liabogoev.com/-folio">Live Demo</a>
 
+## Github-pages
+
+### Keep Up-to-date
+
+    bundle update
+    
+### Serve
+
+    bundle exec jekyll serve
+    
+or my custom script:
+
+    github-pages-serve
+    
+### github-pages
+
+For other commands run "github-pages"
+
 ## Features
 
 ### Collections
