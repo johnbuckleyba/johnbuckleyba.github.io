@@ -121,22 +121,22 @@ Both images will be dynamic, including an active rider tackling burns, dropoffs 
 Below are some images of possible locations, shot at Beecraigs Country Park in September 2015:
 
 <div class="img_row">
-    <img class="col four" src="jb-01.jpg"/>
-    <img class="col four" src="jb-02.jpg"/>
+    <img class="col half" src="jb-01.jpg"/>
+    <img class="col half" src="jb-02.jpg"/>
 </div>
 
 <div class="img_row">
-    <img class="col four" src="jb-03.jpg"/>
-    <img class="col four" src="jb-04.jpg"/>
+    <img class="col half" src="jb-03.jpg"/>
+    <img class="col half" src="jb-04.jpg"/>
 </div>
 
 <div class="img_row">
-    <img class="col four" src="jb-05.jpg"/>
-    <img class="col four" src="jb-06.jpg"/>
+    <img class="col half" src="jb-05.jpg"/>
+    <img class="col half" src="jb-06.jpg"/>
 </div>
 
 <div class="img_row">
-    <img class="col four" src="jb-07.jpg"/>
+    <img class="col half" src="jb-07.jpg"/>
 </div>
 
 
