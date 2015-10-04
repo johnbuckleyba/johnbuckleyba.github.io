@@ -1,6 +1,6 @@
 ---
 layout: page
-title: cpp
+title: Commercial Photographic Practise
 permalink: /cpp/
 ---
 
