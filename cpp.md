@@ -14,9 +14,9 @@ permalink: /cpp/
         <div class="thumbnail blankbox"></div>
         {% endif %}    
         <span>
-            <h1>{{ project.title }}</h1>
+            <h3>{{ project.title }}</h3>
             <br/>
-            <p>{{ project.description }}</p>
+            <h4>{{ project.description }}</h4>
         </span>
         </a>
     </div>

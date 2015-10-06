@@ -5,7 +5,7 @@ layout: default
 
   <header class="post-header">
     <h1 class="post-title">{% if page.module %} {{page.module}} : {% endif %}{{ page.title }}</h1>
-    <h5 class="post-description">{{ page.description }}</h5>
+    <h3 class="post-description">{{ page.description }}</h3>
     <p class="post-meta">{{ page.date | date: "%B %-d, %Y — %H:%M" }}{% if page.author %} • {{ page.author }}{% endif %}{% if page.meta %} • {{ page.meta }}{% endif %}</p>
   </header>
 
