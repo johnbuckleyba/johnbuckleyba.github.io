@@ -250,6 +250,9 @@ object-fit: cover;
 box-sizing:border-box;
 padding: $img_spacing;
 }
+.portrait{
+    height: 500px;
+}
 .right{
 float: right;
 }
