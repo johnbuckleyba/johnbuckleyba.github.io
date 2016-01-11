@@ -26,9 +26,15 @@ However, both these approaches are rather uninteresting and too obvious. It's so
 
 Originally I had in mind an aesthetic similar to these black & white portraits by Dave Hill. Here the subject is fairly anonymous and the strong back-lighting creates a dark, moody atmosphere. Introducing technology into a scene such as this – for example a mobile phone or tablet - would great a scene which is uneasy with respect to the subject's relationship to the technology.
 
-<div class="img_row">
-    <img class="col half" src="DaveHill1.jpg"/>
-    <img class="col half" src="DaveHill2.jpg"/>
+<div class="center">
+    <img class="col three" src="DaveHill1.jpg"/>
+</div>
+<div class="col three caption">
+    Source: Dave Hill
+</div>
+
+<div class="center">
+    <img class="col three" src="DaveHill2.jpg"/>
 </div>
 <div class="col three caption">
     Source: Dave Hill
