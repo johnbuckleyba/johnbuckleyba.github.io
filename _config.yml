@@ -21,6 +21,9 @@ paginate: 15
 paginate_path: "/blog/page:num/"
 
 collections:
+  cs:
+    output: true
+    permalink: /cs/:path/
   cpp:
     output: true
     permalink: /cpp/:path/
