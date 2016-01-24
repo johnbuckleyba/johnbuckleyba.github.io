@@ -98,7 +98,7 @@ The final two images were an attempt at a more detailed study of the structure a
 
 Overall I believe that the images are successfull in meeting the original brief - displaying these structures within the landscape using a modern, desaturated aethetic.
 
-The most successful image may be the first one below: the combination of the fence, bridge, river and pylon create a satisfying composition. However the mist, which prevents the eye from completely resolving the composition, creates an added level of ambiguity. The pylon rises myteriously out of the mist and draws the eye, above all the other elements in the picture.
+The most successful image may be the first one below: the combination of the fence, bridge, river and pylon create a satisfying composition. The mist, which prevents the eye from completely resolving the composition, creates an added level of ambiguity. The pylon rises myteriously out of the mist and draws the eye, above all the other elements in the picture.
 
 <div class="img_row">
     <img class="col half" src="DSC5290-Edit.jpg"/>
@@ -121,4 +121,4 @@ The most successful image may be the first one below: the combination of the fen
 
 #### Possible Improvements
 
-TODO...
+In future I would like to explore the geometric forms of pylons and power generation with a visual approach which focuses on the form, rather than context. The images from the current project which did focus on the pylons were not as successful as those that included the wider landscape. 
