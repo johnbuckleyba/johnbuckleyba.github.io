@@ -86,7 +86,9 @@ Edgar Martins uses a more modern, desaturated style for his photographs; the sub
     Source: Edgar Martins
 </div>
 
-In the current project I would like to take a similar viewpoint to that of Godwin and Davies: considering humanmade structures in the context of the landscape; but using an aestheic closer to that of Martins: desaturated, with a myterious, other-worldly mood.
+In the current project I would like to take a similar viewpoint to that of Godwin and Davies: considering human structures in the context of the landscape; but using an aestheic closer to that of Martins: desaturated, with a myterious, other-worldly mood.
+
+The work is aimed at the 'Places' category of the AOP 2016 awards. The images will capture the environment and the way in which humans have altered and shaped it.
 
 ### Evaluation
 
