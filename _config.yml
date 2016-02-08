@@ -32,4 +32,5 @@ collections:
     permalink: /pspp/:path/
 
 exclude: [Gemfile*]
-  
+
+gems: [jekyll-paginate]
