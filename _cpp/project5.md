@@ -106,8 +106,60 @@ In the example images shown above it appears that photographers take two approac
     Tesla Model S : Tesla Motors
 </div>
 
-In most of the other examples (except perhaps the Porsche) the car has almost certainly been shot in the studio and then placed into the environment during post-processing. The highlights, shadows and especially the reflections on the bodywork and windows are very well controlled in all these cases. The cars appear to have been shot under highly controlled conditions, with carefully arranged, diffuse lighting. It's probable in fact that multiple shots have been combined to create the final, perfect car image. As with any comp, care has been taken to ensure that the light intensity, direction and quality etc are suitable for the location in which the object will be placed.
+In most of the other examples (except perhaps the Porsche) the car has almost certainly been shot in the studio and then placed into the environment during post-processing. The highlights, shadows and especially the reflections on the bodywork and windows are very well controlled in all these cases. The cars appear to have been shot under highly controlled conditions, with carefully arranged, diffuse lighting. It's probable in fact that multiple shots have been combined to create the final, perfect reproduction. As with any comp, care has been taken to ensure that the light intensity, direction and quality etc are suitable for the location in which the object will be placed.
 
-<!-- TODO: Add a little discussion of how we are going to shoot the car. Also the BMW i3 render ;-) -->
 
+#### Lighting
+
+As described above there are two approaches to shooting a car for compositing in a location background: shoot the car on location (either in-situ or in another suitable location) or shoot the car in the studio.
+
+Photographer Clint Davis appears to favour the former approach. An example of this is his work creating imagery for the new Mercedes van. In the following before & after images it's possible to see how he tackles shooting the van on location, then the final result. A couple of points stand out in this case:
+
+1. The van is photographed in-situ. Although the background and sky are altered in post, the foreground is included as-is. This is important because it means the reflections and lighting on the vehicle look natural.
+2. Artificial lighting is created using small, point sources (e.g. speedlites). Using a larger diffuse light would create a much larger hot-spot on the body work/glass, which would be tough to remove in post.
+
+Good post-processing and re-touching work is obviously also required to create a clean result, but clearly this can be acheived from a location based shoot.
+
+<div class="center">
+    <img class="col three" src="ClintDavis-MercedesVan-Before.jpg"/>
+</div>
+<div class="col three caption">
+    Mercedes Benz Sprinter - Before : Clint Davis
+</div>
+
+<div class="center">
+    <img class="col three" src="ClintDavis-MercedesVan-After.jpg"/>
+</div>
+<div class="col three caption">
+    Mercedes Benz Sprinter - After : Clint Davis
+</div>
+
+In some ways a studio car shoot is more complex because of the need to use a very large diffuser panel suspended above the vehicle. Great car must also be taken to avoid unwanted reflections (equipment, lights etc) on the bodywork and glass. An example of a typical lighting set up can be seen in the following studio shoot for a Dodge Viper ACR. In this case the photographer is using a dedicated diffuser box which incorporate lights.
+
+<div class="center">
+    <img class="col three" src="ACR-Studio.jpg"/>
+</div>
+<div class="col three caption">
+    Dodge Viper ACR : Lyle Okihara
+</div>
+
+A cheaper alternative, when a dedicated box large enough for a car is not available, it to use a large reflector constructed out of material. Clint Davis used this type of set up to photograph a Nascar. It should be possible to build a similar set up by hanging a large white sheet (or sheets stiched together) from a couple of studio background stands.
+
+<div class="center">
+    <img class="col three" src="ClintDavis-Nascar-Reflector.jpg"/>
+</div>
+<div class="col three caption">
+    Nascar : Clint Davis
+</div>
+
+Note that in this set up the strobes are placed low down on the studio floor and fired upwards, then the light is reflected back onto the car by the material. The aim with both approaches is to create soft, diffuse light and avoid hotspots on the bodywork or glass. Photographer Andrew Link suggests placing black material on the studio floor to reduce reflections from the floor and create a more sculpted light which reveals the shape of the car body.
+
+<div class="center">
+    <img class="col three" src="Outlander-Reflections.jpg"/>
+</div>
+<div class="col three caption">
+    Black floor "reflectors" : Andrew Link
+</div>
+
+Given the challenges of the studio shoot I intend to first shoot the car at a suitable location, either at the same time as the background image, or in another similar location, taking into account reflections, lighting etc. If this approach fails, then a studio shoot may be necessary to obtain a clean image of the car.
 
