@@ -2,8 +2,8 @@
 layout: post
 title: Project 1
 description: Stories of Encounters
-module: PSPP
-img: /pspp/project1/mbr-04.jpg
+module: PSP
+img: /psp/project1/mbr-04.jpg
 ---
 
 ### Stories of Encounters

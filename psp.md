@@ -1,10 +1,10 @@
 ---
 layout: page
 title: Professional Set Photographic Project
-permalink: /pspp/
+permalink: /psp/
 ---
 
-{% for project in site.pspp %}
+{% for project in site.psp %}
 <div class="project ">
     <div class="thumbnail">
         <a href="{{ site.baseurl }}{{ project.url }}">

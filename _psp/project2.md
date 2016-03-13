@@ -2,8 +2,8 @@
 layout: post
 title: Project 2
 description: AOP Student Awards
-module: PSPP
-img: /pspp/project2/powerlines-thumb.jpg
+module: PSP2
+img: /psp/project2/powerlines-thumb.jpg
 ---
 
 ### Powerlines

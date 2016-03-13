@@ -27,9 +27,9 @@ collections:
   cpp:
     output: true
     permalink: /cpp/:path/
-  pspp:
+  psp:
     output: true
-    permalink: /pspp/:path/
+    permalink: /psp/:path/
 
 exclude: [Gemfile*]
 
