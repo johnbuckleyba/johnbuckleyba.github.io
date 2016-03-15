@@ -6,9 +6,9 @@ module: PSP
 img: /psp/project3/RoboSapiens1.jpg
 ---
 
-### The Quest
+### Statement
 
-This project is concerned with the quest to build a robot which can sense, respond to and mimic human interactions and cognitive abilities. There are many elements to this endeavour: developments are required both in terms of hardware - for example touch sensitive "skin" - and, perhaps most crucially, to Computer Science, more commonly known in this context as *artificial intelligence*. The development of computer algorithms which can enable the robot to perform complex tasks such as object and language cognition and - perhaps more importantly for natural, human interactions - contextualisation ("that" cup) are still topics for research. One platform which is enabling research into these, and other, areas of robotics is the [iCub](http://www.icub.org/) robot.
+This project is concerned with rebirth. Specifically the attempt by scientists and researchers to give birth to robots which can sense, respond to and mimic human interactions and cognitive abilities. There are many elements to this endeavour: developments are required both in terms of hardware - for example touch sensitive "skin" - and, perhaps most crucially, to Computer Science, more commonly known in this context as *artificial intelligence*. The development of computer algorithms which can enable the robot to perform complex tasks such as object and language cognition and - perhaps more importantly for natural, human interactions - contextualisation ("that" cup) are still topics for research. One platform which is enabling research into these, and other, areas of robotics is the [iCub](http://www.icub.org/) robot. 
 
 ### Research
 
@@ -88,13 +88,20 @@ The photographer Greg White often chooses technology as his subject. A good exam
 
 The iCub owned by Edinburgh Robotics consists of the head only. This is because the group's primary research interest is natural language and cognition, capabilities which do not require the rest of the iCub's body. From a visual point of view this is unfortunate because it would have been interesting to capture the entire robot; a full body would have permitted more options and expression via posture.
 
-In the image I wanted to portray the iCub's "humanity", or at least the human-like expressiveness of its face, but to also emphasise the technology. I also wanted to suggest the idea of *The Quest*: the strive to create an artificial intelligence which can sense, interact and communicate in a human-like manner.
+<div class="center">
+    <img class="col three" src="Nikita.jpg"/>
+</div>
+<div class="col three caption">
+    Source: John Buckley
+</div>
 
-I think that the final image succeeds in meeting the above criteria: the iCub's face is expressive, looking upwards and out of the frame to something beyond, it communicates the idea of searching, of a *quest*. Even the slightly open mouth, formed by the iCub's mask - which is used to hide the mechanism which controls the robot's mouth - suggests surprise, or perhaps wonder.
+In the image I wanted to portray the iCub's "humanity", or at least the human-like expressiveness of its face, but to also emphasise the technology. I also wanted to suggest the idea of *Rebirth*: the re-creation of the human form in a robot endowed with an artificial intelligence which can sense, interact and communicate in a human-like manner.
+
+I think that the final image succeeds in meeting the above criteria: the iCub's face is child-like and expressive, looking upwards and out of the frame to something beyond. The slightly open mouth, formed by the iCub's mask - which is used to hide the mechanism which controls the robot's mouth - suggests surprise, or perhaps wonder. 
+
+The idea of Rebirth is strongly suggested by the iCub's "umbilical cord", a cable providing power and connecting the robot to its artificial mind, hosted by an external computer. The cable balances the composition and suggests that the iCub is not isolated: it is connected to the world outside of the frame.
 
 The technological component is also present, represented by the circuitry and mechanisms in the iCub's neck. 
-
-Completing the composition is the iCub's "umbilical cord", a cable providing power and connecting the robot to its artificial mind, hosted by an external computer. The cable balances the composition and suggests that the iCub is not isolated: it is connected to the world outside of the frame.
 
 #### Possible Improvements
 
