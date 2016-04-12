@@ -8,7 +8,7 @@ img: /psp/project4/DSC8228-Edit.jpg
 
 ### Introduction
 
-The purpose of this project is to produce a single image for submission to the BIPP Scotland Student Awards 2016.
+The purpose of this project is to produce a single image for submission to the BIPP Scotland Student Awards 2016 in the Advertising and Fashion category.
 
 ### Research
 
@@ -76,16 +76,16 @@ The difference in aesthetic and style between the two sets of images is not larg
 
 The criteria for my BIPP Scotland Student Award submission was to produce an image which meets professional standards, is interesting and engaging, but which is also less conceptual and perhaps more traditional - reflecting more the aesthetic and style of the BIPP.
 
-I have chosen a portrait, taken from a series of images exploring wearable technology. Portraiture, although popular with both the BIPP and AOP members, could be considered a more conservative style of photography: a "classic" portrait requires only that that the photographer (or painter) create an engaging and life-like representation of the sitter. The twist in the submitted image (below) is that the subject is wearing a virtual reality headset.
+I have chosen a portrait, taken from a series of images promoting wearable technology. In this particular image (below) the model is wearing a virtual reality headset.
 
 <div class="center">
     <img class="two" src="DSC8228-Edit.jpg"/>
 </div>
 <div class="col three caption">
-    Portrait: Virtual Reality by John Buckley
+    Virtual Reality by John Buckley
 </div>
 
-Virtual reality headsets are often pictured in place, over the user's face. However in the context of portraiture this is problematic both because it is predictable and also because the headset obscures the subject's face. Additionally, because virtual reality headsets are currently strongly associated with computer gaming, the user is often a white male.
+Virtual reality headsets are often pictured in place, over the user's face. However this can be problematic both because it is predictable and also because the headset obscures the subject's face. Additionally, because virtual reality headsets are currently strongly associated with computer gaming, the user is often a white male.
 
 <div class="img_row">
     <img class="col three" src="oculus1.jpg"/>
@@ -94,9 +94,9 @@ Virtual reality headsets are often pictured in place, over the user's face. Howe
     Source: Oculus Rift
 </div>
 
-In the submitted image the subject is a young woman. This adds a new element to the portrait because the viewer immediately starts asking why such a person should be wearing a VR headset. Virtual reality does have more uses cases than computer gaming: for example it is used by architects as a method of viewing architectural designs. The subject in this image happens to be one of these architects. This particular use-case is not explicitly or even implicitly suggested by the image; however the combination of the unusual subject and the VR headset does suggest an alternative context for VR, or at least leads the viewer to question why the subject should be wearing such a device.
+In the submitted image the subject is a young woman. This adds a new element to the image because the viewer immediately starts asking why such a person should be wearing a VR headset. Virtual reality does have more uses cases than computer gaming: for example it is used by architects as a method of viewing architectural designs. The subject in this image happens to be one of these architects. This particular use-case is not explicitly or even implicitly suggested by the image; however the combination of the unusual subject and the VR headset does suggest an alternative context for VR, or at least leads the viewer to question why the subject should be wearing such a device.
 
-The portrait also contains a sense of brightness and optimism, which could be taken as suggesting that current technological developments may have a positive, enabling effect for humanity.
+The image also contains a sense of brightness and optimism, which could be taken as suggesting that current technological developments may have a positive, enabling effect for humanity.
 
 #### Possible Improvements
 
